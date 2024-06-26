@@ -1,0 +1,72 @@
+Date,Product_Name,Product_Category,Sales_Revenue,Region
+1/1/2022,Smartphone A,Smartphones,1200,North America
+1/2/2022,Smartphone B,Smartphones,800,Europe
+1/3/2022,Tablet A,Tablets,650,Asia
+1/4/2022,Laptop A,Laptops,1500,North America
+1/5/2022,Smartwatch A,Wearables,300,Europe
+1/6/2022,Headphones A,Accessories,200,Asia
+1/7/2022,Smartphone C,Smartphones,900,South America
+1/8/2022,Tablet B,Tablets,700,Africa
+1/9/2022,Laptop B,Laptops,1800,Australia
+1/10/2022,Smartwatch B,Wearables,320,North America
+1/11/2022,Headphones B,Accessories,220,Europe
+1/12/2022,Smartphone D,Smartphones,1000,Asia
+1/13/2022,Tablet C,Tablets,680,North America
+1/14/2022,Laptop C,Laptops,1400,Europe
+1/15/2022,Smartwatch C,Wearables,310,Asia
+1/16/2022,Headphones C,Accessories,230,South America
+1/17/2022,Smartphone E,Smartphones,950,Africa
+1/18/2022,Tablet D,Tablets,720,Australia
+1/19/2022,Laptop D,Laptops,1700,North America
+1/20/2022,Smartwatch D,Wearables,300,Europe
+1/21/2022,Headphones D,Accessories,210,Asia
+1/22/2022,Smartphone F,Smartphones,1050,South America
+1/23/2022,Tablet E,Tablets,740,Africa
+1/24/2022,Laptop E,Laptops,1600,Australia
+1/25/2022,Smartwatch E,Wearables,320,North America
+1/26/2022,Headphones E,Accessories,220,Europe
+1/27/2022,Smartphone G,Smartphones,1100,Asia
+1/28/2022,Tablet F,Tablets,700,North America
+1/29/2022,Laptop F,Laptops,1500,Europe
+1/30/2022,Smartwatch F,Wearables,310,Asia
+1/31/2022,Headphones F,Accessories,230,South America
+2/1/2022,Smartphone H,Smartphones,1200,Africa
+2/2/2022,Tablet G,Tablets,750,Australia
+2/3/2022,Laptop G,Laptops,1400,North America
+2/4/2022,Smartwatch G,Wearables,300,Europe
+2/5/2022,Headphones G,Accessories,210,Asia
+2/6/2022,Smartphone I,Smartphones,1150,South America
+2/7/2022,Tablet H,Tablets,720,Africa
+2/8/2022,Laptop H,Laptops,1700,Australia
+2/9/2022,Smartwatch H,Wearables,320,North America
+2/10/2022,Headphones H,Accessories,220,Europe
+2/11/2022,Smartphone J,Smartphones,950,Asia
+2/12/2022,Tablet I,Tablets,700,North America
+2/13/2022,Laptop I,Laptops,1600,Europe
+2/14/2022,Smartwatch I,Wearables,310,Asia
+2/15/2022,Headphones I,Accessories,230,South America
+2/16/2022,Smartphone K,Smartphones,1000,Africa
+2/17/2022,Tablet J,Tablets,680,Australia
+2/18/2022,Laptop J,Laptops,1500,North America
+2/19/2022,Smartwatch J,Wearables,300,Europe
+2/20/2022,Headphones J,Accessories,210,Asia
+2/21/2022,Smartphone L,Smartphones,900,South America
+2/22/2022,Tablet K,Tablets,740,Africa
+2/23/2022,Laptop K,Laptops,1700,Australia
+2/24/2022,Smartwatch K,Wearables,320,North America
+2/25/2022,Headphones K,Accessories,220,Europe
+2/26/2022,Smartphone M,Smartphones,1050,Asia
+2/27/2022,Tablet L,Tablets,700,North America
+2/28/2022,Laptop L,Laptops,1800,Europe
+3/1/2022,Smartwatch L,Wearables,310,Asia
+3/2/2022,Headphones L,Accessories,230,South America
+3/3/2022,Smartphone N,Smartphones,1150,Africa
+3/4/2022,Tablet M,Tablets,750,Australia
+3/5/2022,Laptop M,Laptops,1400,North America
+3/6/2022,Smartwatch M,Wearables,300,Europe
+3/7/2022,Headphones M,Accessories,210,Asia
+3/8/2022,Smartphone O,Smartphones,950,South America
+3/9/2022,Tablet N,Tablets,720,Africa
+3/10/2022,Laptop N,Laptops,1600,Australia
+3/11/2022,Smartwatch N,Wearables,320,North America
+3/12/2022,Headphones N,Accessories,220,Europe
